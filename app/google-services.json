@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064974809822",
+    "project_id": "chartaplication",
+    "storage_bucket": "chartaplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064974809822:android:64da59a415e59b8c17a04f",
+        "android_client_info": {
+          "package_name": "com.example.chartaplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064974809822-q32ma6klcrju2i69sntnvvrps01duf2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnEpaMskmd-YGWqCBVVFvIHMjrbS1Amvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064974809822-q32ma6klcrju2i69sntnvvrps01duf2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
